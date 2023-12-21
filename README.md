@@ -7,7 +7,7 @@ Purpose: make a counter with `useState` hook and `onClick` props.
 
 Responsive app (breakpoints at 576px, 768px and 992px).
 
-Watch the result on [Netlify].
+Watch the result on [Netlify](https://ornate-puppy-96c6b1.netlify.app/).
 
 ## React + Vite
 
