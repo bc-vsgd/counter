@@ -1,0 +1,27 @@
+@media (min-width: 768px) {
+  /* HEADER */
+
+  header {
+    width: 700px;
+    margin: 0 auto 150px auto;
+    display: flex;
+    justify-content: flex-start;
+  }
+  header div {
+    margin: 0;
+    width: 500px;
+    font-size: 48px;
+    justify-content: space-around;
+  }
+
+  /* FOOTER */
+
+  footer {
+    margin-top: 150px;
+  }
+  footer p {
+    width: 700px;
+    font-size: 18px;
+    padding: 15px;
+  }
+}

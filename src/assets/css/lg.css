@@ -1,0 +1,16 @@
+@media (min-width: 992px) {
+  /* HEADER */
+
+  header {
+    margin-bottom: 250px;
+  }
+
+  /* FOOTER */
+
+  footer {
+    margin-top: 200px;
+  }
+  footer p {
+    padding: 20px;
+  }
+}

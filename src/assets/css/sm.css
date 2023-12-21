@@ -1,0 +1,17 @@
+@media (min-width: 576px) {
+  /* HEADER */
+
+  header {
+    margin-bottom: 120px;
+  }
+  header div {
+    margin: 0 auto;
+    font-size: 32px;
+  }
+
+  /* FOOTER */
+
+  footer {
+    margin-top: 100px;
+  }
+}
